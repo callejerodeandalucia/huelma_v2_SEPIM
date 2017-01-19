@@ -1,11 +1,23 @@
 Título (30)
 ===========
 
+Guía principal de Huelma
+
 Descripción breve (80)
 ======================
 
+En esta guía para móvil de Huelma encontraras información detallada de los principales lugares de interés 
+
 Descripción completa (4000)
 ===========================
+
+Para el año 2016 las bases de datos de las principales administraciones públicas y lugares de interés ciudadana, pertenecientes a la localidad de Huelma (Jaén), habían cambiado algunos datos. En un intento de ofrecer al ciudadano un compendio de lugares de interés con los datos actualizados se lleva a cabo la confección de esta guía.
+El municipio de Huelma se encuentra al sur del macizo de Sierra Mágina, en la provincia de Jaén, colindando justamente con el límite provincial entre esta última y Granada. 
+La localidad se encuentra situada en una zona montañosa a los pies del Parque Natural Sierra Mágina, a 1000 metros sobre el nivel del mar, y, rodeada por zonas de cultivo del olivar y bosques mediterráneos pertenecientes al parque natural.
+Cuenta con una población ligeramente superior a los 6000 habitantes, aunque su número ha ido descendiendo paulatinamente desde hace varios lustros, lo que la convierte en una de las localidades más pobladas de esta zona de Jaén, superada por Jódar y Mancha Real si hablamos del ámbito comarcal y de Iznalloz si nos referimos a la zona granadina.
+Se puede acceder a la misma desde la autovía A-44, cogiendo la salida 58 Cambil-Huelma y continuando por la A-324, o bien tomando la A-401 hasta alcanzar la citada A-324 y tomar dirección Huelma.
+Dentro de la localidad encontramos las diversas administraciones públicas o privadas, y lugares de interés general, que permiten realizar las gestiones pertinentes por parte de la ciudadanía. Destacamos el Ayuntamiento, la Casa de la Juventud (área de juventud del ayuntamiento), las oficinas de la Policía Local y la Guardia Civil, los centros educativos y deportivos, servicios municipales, centros de salud y farmacias, empresas de transportes públicos con sus paradas y horarios, oficinas de administraciones autonómicas, notaria, sucursales bancarias,…
+En definitiva, aquellos lugares en los que el ciudadano puede acudir en busca de información, realizar gestiones burocráticas pertinentes, disponer de dinero, disfrutar de un servicio público (biblioteca, gimnasio, pistas de pádel,…),…son los que quedan reflejados en esta primera guía informativa de la localidad de Huelma.
 
 Etiquetas	
 ===========
@@ -22,3 +34,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
